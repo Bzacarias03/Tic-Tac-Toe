@@ -2,7 +2,7 @@
 This is a simple and lightweight implementation of the popular game Tic-Tac-Toe made using java
 
 --NOTE--
-THIS GAME REQUIRES JAVA JDK 11 OR HIGHER IN ORDER TO WORK!!!
+THIS GAME REQUIRES JAVA 8 OR HIGHER IN ORDER TO WORK!!!
 
 ## Functionality
 This app has many features that are as follows:
