@@ -1,6 +1,9 @@
 # Tic-Tac-Toe
 This is a simple and lightweight implementation of the popular game Tic-Tac-Toe made using java
 
+--NOTE--
+THIS GAME REQUIRES JAVA JDK 11 OR HIGHER IN ORDER TO WORK!!!
+
 ## Functionality
 This app has many features that are as follows:
  - Color indicator for showing a player win and a tie
