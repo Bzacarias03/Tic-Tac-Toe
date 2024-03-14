@@ -2,7 +2,7 @@
 This is a simple and lightweight implementation of the popular game Tic-Tac-Toe made using java
 
 ## Functionality
-This app has many features to make are as follows:
+This app has many features that are as follows:
  - Color indicator for showing a player win
    ![Player Win](https://github.com/Bzacarias03/Tic-Tac-Toe/assets/144839446/da61d1c9-0f58-4f63-92ee-7d528f0e8b89)
 
